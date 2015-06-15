@@ -1,0 +1,35 @@
+{
+  "name": "mochaTest",
+  "version": "1.0.0",
+  "description": "A sample testing project to learn mocha",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ovidio4usa/mochaTest.git"
+  },
+  "keywords": [
+    "mocha",
+    "sample",
+    "test",
+    "testing",
+    "tdd"
+  ],
+  "author": "Ovidio R. Calvet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ovidio4usa/mochaTest/issues"
+  },
+  "homepage": "https://github.com/ovidio4usa/mochaTest"
+}
